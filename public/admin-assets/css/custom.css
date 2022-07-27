@@ -1,0 +1,27 @@
+.preview img {
+	width:  200px;
+	height:  200px;
+}
+body {
+  background: #dd5e89;
+  background: -webkit-linear-gradient(to left, #dd5e89, #f7bb97);
+  background: linear-gradient(to left, #dd5e89, #f7bb97);
+  min-height: 100vh;
+}
+table, tr, th, td {
+  vertical-align: middle !important;
+}
+.badge-public {
+  color: #fff;
+  background-color: #1cc88a;
+}
+.badge-private {
+  color: #fff;
+  background-color: #d52a1a;
+}
+.preview {
+	margin-top: 2px;
+}
+.select2-container--default {
+	width: 100% !important;
+}
